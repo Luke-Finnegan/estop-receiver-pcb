@@ -22,15 +22,16 @@ Safety-critical robots require a reliable, interference-resistant method to halt
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](hardware/schematics/estop_schematic.pdf)
 
 ## PCB Layout
 
-![Layout](images/layout.png)
+![Layout](hardware/pcb-layout/altium-screenshot.png)
+![Layout](hardware/pcb-layout/altium-screenshot-3D.png)
 
 ## Board Photo
 
-![Board](images/board.jpg)
+![Board](images/Final_PCB.pdf)
 
 ## Design Decisions
 
