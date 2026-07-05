@@ -22,7 +22,10 @@ Safety-critical robots require a reliable, interference-resistant method to halt
 
 ## Schematic
 
-![Schematic](hardware/schematics/estop_schematic.pdf)
+![Schematic](hardware/schematics/2026EStopReceiver_1.pdf)
+![Schematic](hardware/schematics/2026EStopReceiver_2.pdf)
+![Schematic](hardware/schematics/2026EStopReceiver_3.pdf)
+![Schematic](hardware/schematics/2026EStopReceiver_4.pdf)
 
 ## PCB Layout
 
@@ -31,7 +34,7 @@ Safety-critical robots require a reliable, interference-resistant method to halt
 
 ## Board Photo
 
-![Board](images/Final_PCB.pdf)
+![Board](images/IMG_7543.jpeg)
 
 ## Design Decisions
 
