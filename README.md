@@ -21,10 +21,10 @@ Safety-critical robots require a reliable, interference-resistant method to halt
 **Designed in:** Altium Designer
 
 ## Schematic
-<img src="hardware/schematics/88ff3e2b-8d4b-45b7-82fa-86a567278a98-0.jpg" width="500">
-<img src="hardware/schematics/88ff3e2b-8d4b-45b7-82fa-86a567278a98-1.jpg" width="500">
-<img src="hardware/schematics/88ff3e2b-8d4b-45b7-82fa-86a567278a98-2.jpg" width="500">
-<img src="hardware/schematics/88ff3e2b-8d4b-45b7-82fa-86a567278a98-3.jpg" width="500">
+<img src="hardware/schematics/schematic-0.jpg" width="500">
+<img src="hardware/schematics/schematic-1.jpg" width="500">
+<img src="hardware/schematics/schematic-2.jpg" width="500">
+<img src="hardware/schematics/schematic-3.jpg" width="500">
 
 ## PCB Layout
 <img src="hardware/pcb-layout/altium-screenshot.png" width="500">
