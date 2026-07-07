@@ -1,5 +1,5 @@
 # Emergency Stop Receiver Board
-LoRa-based emergency stop receiver that converts RF commands into CAN messages and a hardware-interlocked MOSFET shutdown path.
+### LoRa-based emergency stop receiver that converts RF commands into CAN messages and a hardware-interlocked MOSFET shutdown path.
 
 A 2-layer PCB designed for Sooner Competitive Robotics' autonomous robot platform. The board receives a wireless emergency-stop signal over LoRa RF and translates it into a CAN bus message and a MOSFET-switched output to safely halt robot operation.
 
@@ -47,7 +47,7 @@ Safety-critical robots require a reliable, interference-resistant method to halt
 
 ## Bring-Up Notes
 
-Hand-soldered and validated using a bench power supply and multimeter. Hardware faults were encountered during initial bring-up and diagnosed using bench equipment. A backup circuit path was implemented to meet competition deadline. The board successfully operated at IGVC 2026 where the team placed 6th out of 22 teams.
+Hand-soldered and validated using a bench power supply and multimeter. Hardware faults were encountered during initial bring-up and diagnosed using bench equipment. A backup circuit was implemented to meet competition deadline. The board successfully operated at IGVC 2026 where the team placed 6th out of 22 teams.
 
 ## Tools
 
